@@ -33,3 +33,4 @@ We now need to enable WSL 2 for Windows. Developers can access the power of both
 
 This command will enable the features necessary to run WSL and install the Ubuntu distribution of Linux.
 
+![Docker SS](docker-container-img.jpg)
