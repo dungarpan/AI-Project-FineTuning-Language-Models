@@ -1,4 +1,4 @@
-(https://huggingface.co/spaces/arpachat/sentiment-analysis)
+https://huggingface.co/spaces/arpachat/sentiment-analysis
 
 ---
 title: Sentiment Analysis
