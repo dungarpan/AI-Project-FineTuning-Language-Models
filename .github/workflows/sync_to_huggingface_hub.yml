@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://arpachat:$HF_TOKEN@huggingface.co/spaces/arpachat/sentiment-analysis main
+        run: git push --force https://arpachat:$HF_TOKEN@huggingface.co/spaces/arpachat/sentiment-analysis main
