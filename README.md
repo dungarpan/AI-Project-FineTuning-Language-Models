@@ -1,3 +1,15 @@
+---
+title: Sentiment Analysis
+emoji: 🐢
+colorFrom: green
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.17.0
+app_file: app.py
+pinned: false
+---
+
+
 <h2> New York University Tandon School of Engineering <br> Computer Science and Engineering <br> CS-GY 6613 Project: FineTuning-Language-Models </h2>
 <h4>Name: Arpan Chatterjee<br>Email: ac9839@nyu.edu<br>ID Number: N14082602</h4>
 <hr>
