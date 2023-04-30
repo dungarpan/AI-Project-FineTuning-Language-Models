@@ -10,12 +10,15 @@ https://sites.google.com/view/patent-score-checker/home
 
 https://huggingface.co/arpachat/model-patent-score
 
-
-<h2> New York University Tandon School of Engineering <br> Computer Science and Engineering <br> CS-GY 6613 Project: FineTuning-Language-Models </h2>
-<h4>Name: Arpan Chatterjee<br>Email: ac9839@nyu.edu<br>ID Number: N14082602</h4>
-<hr>
-<p>The app is not running in hugging face due to a 410 error, which I couldn't fix.</p>
-<p>The app has run succesfully in my local machine using "streamlit run app.py". Note that, the model folder couldn't be uploaded to GitHub as the file size were over GitHub's allowed size. The model folder has been uploaded to HuggingFace Models page(link provided above). This directory should be downloaded and put in the same directory as app.py and named 'model-patent-score'. After this we can run streamlit application app.py using the command given in quotes above.</p>
+<br>
+<p>To run this application locally, follow the steps discussed below:-</p>
+<ol>
+<li>Pull this directory to your local repository.</li><br>
+<li>Create a virtual environment and install all the dependencies mentioned inside the requirements.txt file</li><br>
+<li>Note that, the model folder couldn't be uploaded to GitHub as the file size were over GitHub's allowed size. The model folder has been uploaded to HuggingFace Models page(link provided above). This directory should be downloaded and put in the same directory as app.py and named 'model-patent-score'.</li><br>
+<li>After this we can run streamlit application app.py using the command:</li><br>
+<p><i>streamlit run app.py</i></p>
+</ol>
 <p>I am providing screenshots of the running app below</p>
 
 ![Docker SS](p1-ws.jpg)
