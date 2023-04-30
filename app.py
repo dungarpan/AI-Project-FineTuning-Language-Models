@@ -6,7 +6,7 @@ import torch.nn.functional as F
 
 @st.cache
 def predictScore(abstract):
-    model_dir = 'arpachat/model-patent-score'
+    model_dir = 'model-patent-score'
     tokenizer = AutoTokenizer.from_pretrained(model_dir)
     model = AutoModelForSequenceClassification.from_pretrained(model_dir)
 
