@@ -1,3 +1,7 @@
+<p>Landing Page:</p>
+
+https://sites.google.com/view/patent-score-checker/home
+
 <p>App Link:</p>
 
 [https://huggingface.co/spaces/arpachat/sentiment-analysis](https://huggingface.co/spaces/arpachat/Patentability-Score)<br>
