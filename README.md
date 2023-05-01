@@ -12,6 +12,8 @@ https://sites.google.com/view/patent-score-checker/home
 
 https://huggingface.co/arpachat/model-patent-score
 
+<p>In this project, we have finetuned the existing and widely popular language model "distilbert-base-cased" to get the patentability score of a patent. We have converted the decision input from the HUPD dataset to be either 0 or 1 if it is "ACCEPTED" or "REJECTED" respectively and this is the label for our new model. The abstract of the patent has been used as the feature which is also fed to the model. We have trained this model with all the patents in the HUPD dataset between 1st January 2016 and 21st January 2016. This trained model has also been uploaded to Hugging Face Models(the link is given above)</p>
+
 <br>
 <p>To run this application locally, follow the steps discussed below:-</p>
 <ol>
