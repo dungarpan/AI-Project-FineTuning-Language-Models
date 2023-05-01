@@ -33,7 +33,7 @@ https://huggingface.co/arpachat/model-patent-score
 <li>Note that, the model folder couldn't be uploaded to GitHub as the file size were over GitHub's allowed size. The model folder has been uploaded to HuggingFace Models page(link provided above). This directory should be downloaded and put in the same directory as app.py and named 'model-patent-score'.</li><br>
 <li>After this we can run streamlit application app.py using the command:</li><br>
 <p><i>streamlit run app.py</i></p><br>
-</ol><br>
+</ol>
 
 ## Screenshots of the application
 
